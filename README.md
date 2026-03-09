@@ -1,6 +1,6 @@
 <h1>🤖 GizmoBall - El primer robot esférico con personalidad canina (y recubrimiento de peluche)</h1>
 
-![GizmoBall](https://via.placeholder.com/800x400?text=GizmoBall+-+El+amigo+rodante+de+Gizmo)
+![GizmoBall](https://github.com/Charran78/Gizmo_Ball_Dog_Toy/blob/main/GB3.png/800x400?text=GizmoBall+-+El+amigo+rodante+de+Gizmo)
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Arduino](https://img.shields.io/badge/Arduino-IDE-blue)](https://www.arduino.cc/)

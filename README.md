@@ -1,7 +1,7 @@
 <h1>🤖 GizmoBall - El primer robot esférico con personalidad canina (y recubrimiento de peluche)</h1>
 
 <div align="center">
-  <img src="GB3.png" alt="Demo" width="full">
+  <img src="GB3.png" alt="Demo" width=800>
 </div>
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](https://opensource.org/licenses/MIT)
